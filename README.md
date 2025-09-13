@@ -1,5 +1,5 @@
 ## Hi, I'm Naomi 👋
-I'm a **sophomore informatics student** at **Bandung Institute of Technology (ITB)**, currently exploring the world of programming.
+I'm a **third-year informatics student** at **Bandung Institute of Technology (ITB)**, currently exploring the world of programming.
 
 <div align="center">
     <h2>Languages</h2>
