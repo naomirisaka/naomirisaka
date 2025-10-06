@@ -1,5 +1,5 @@
 <p align="center">
-<img src="miffy.gif" width="100%"/>
+<img src="miffy.png"/>
 </p>
 
 ## Hi, I'm Naomi 👋
