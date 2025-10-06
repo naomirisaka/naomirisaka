@@ -1,3 +1,7 @@
+<p align="center">
+<img src="miffy.gif" width="100%"/>
+</p>
+
 ## Hi, I'm Naomi 👋
 I'm a **third-year informatics student** at **Bandung Institute of Technology (ITB)**, currently exploring the world of programming.
 
